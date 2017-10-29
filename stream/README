@@ -1,0 +1,6 @@
+collector, collectorHandler
+message
+processor
+processor demultiplexer
+
+pipeline
